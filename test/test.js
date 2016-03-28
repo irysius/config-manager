@@ -33,8 +33,6 @@ var colorMiddleware = {
 	}
 };
 
-
-
 describe('config-manager', function () {
 	it('should be able to assemble a default config', function (done) {
 		var defaultConfig = { alpha: 'bravo' };
